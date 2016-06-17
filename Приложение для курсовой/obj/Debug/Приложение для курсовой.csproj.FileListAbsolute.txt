@@ -1,0 +1,28 @@
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe.config
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.pdb
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csprojResolveAssemblyReference.cache
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\MainWindow.g.cs
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\App.g.cs
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой_MarkupCompile.cache
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой_MarkupCompile.lref
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\MainWindow.baml
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.g.resources
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Properties.Resources.resources
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.GenerateResource.Cache
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.exe
+C:\Users\enigma\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.pdb
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe.config
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.exe
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.pdb
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.pdb
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csprojResolveAssemblyReference.cache
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\MainWindow.g.cs
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\App.g.cs
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой_MarkupCompile.cache
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой_MarkupCompile.lref
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\MainWindow.baml
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.g.resources
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Properties.Resources.resources
+D:\mailCloud\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.GenerateResource.Cache
